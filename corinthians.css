@@ -1,0 +1,84 @@
+body {
+  background-image: url("c:\Users\Info 1\Pictures\simbolo_do_corinthians_da_camisa_i_da_temporada_1hdv.jpg");
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+}
+nav {
+background-color: rgb(0, 0, 0);
+font-family: fantasy;
+text-indent: 30px;
+font-size: 1em;
+line-height: 2em;
+font-style: oblique;
+color: rgb(171, 0, 0);
+
+}
+
+main{
+margin: 15px 0px;
+text-align: justify;
+font-family: fantasy;
+text-indent: 30px;
+font-size: 1em;
+line-height: 2em;
+font-style: oblique;
+color: rgb(0, 0, 0);
+
+}
+main p {
+margin: 15px 0px;
+text-align: justify;
+font-family: nougat;
+text-indent: 30px;
+font-size: 1em;
+line-height: 2em;
+color: rgb(169, 3, 3);
+}
+.subir{
+text-align: right;
+display: block;
+color: rgba(5, 247, 255, 0);
+}
+main h2{
+color: rgb(168, 2, 2);
+font-family: fantasy;
+background-image: linear-gradient(to right, rgb(16, 1, 20))
+}
+main > a{
+text-align: right;
+}
+img{
+margin: auto;
+display: block;
+}
+ul{
+font-family: nougat;
+line-height: 2em;
+list-style: square;
+}
+form{
+line-height: 1em;
+font-family: fantasy;
+margin-top: 10px;
+font-weight: bold;
+}
+h1, h2{
+  font-family: fantasy;
+  font-size: 2em;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+footer{
+background-color: rgb(0, 0, 0);
+color: rgb(136, 3, 3);
+font-family: fantasy;
+text-align: center;
+text-shadow: 5px 0px rgb(0, 0, 0);
+font-weight: bold;
+box-shadow: 5px 5px rgb(116, 3, 3);
+}
+label{
+  vertical-align: top;
+}
